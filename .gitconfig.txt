@@ -1,0 +1,3 @@
+[user]
+	email=v.mishan9@gmail.com
+	user=mikhailvolchkov
